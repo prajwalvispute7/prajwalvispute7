@@ -12,7 +12,9 @@
 </div>
 
 ---
+## 😂 Random Dev Joke
 
+<img src="https://readme-jokes.vercel.app/api"/>
 <img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 # 💫 About Me
