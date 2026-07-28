@@ -113,20 +113,6 @@ Become a Software Engineer at a top product company.
 
 ---
 
-# ⚡ Fun Fact
-
-```javascript
-const prajwal = {
-    role: "Full Stack Developer",
-    code: ["Java","C++","JavaScript"],
-    technologies: ["React","Node","Express","MongoDB"],
-    currentlyLearning: "Advanced MERN Stack",
-    lifeMotto: "Code • Learn • Build • Repeat 🚀"
-}
-```
-
----
-
 <div align="center">
 
 ## ⭐ "Dream Big. Code Bigger."
@@ -154,16 +140,6 @@ const prajwal = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prajwalvispute7&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -184,25 +160,6 @@ const prajwal = {
 
 ---
 
-# ⚡ Development Philosophy
-
-```text
-while(alive){
-
-    Eat();
-
-    Sleep();
-
-    Code();
-
-    Learn();
-
-    Repeat();
-
-}
-```
-
----
 
 # 💻 Current Focus
 
@@ -272,15 +229,6 @@ Goal:
 
 ---
 
-# ☕ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
@@ -326,7 +274,6 @@ Goal:
 
 ## ⭐ If you like my work, consider starring my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=150&section=footer"/>
 
 </div>
 ---
@@ -365,12 +312,6 @@ Goal:
 
 </div>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prajwalvispute7/prajwalvispute7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
----
 
 # 💼 Developer Toolkit
 
