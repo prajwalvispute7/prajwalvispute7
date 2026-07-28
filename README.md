@@ -1,38 +1,35 @@
-<h1 align="center">
-Hi 👋, I'm <span style="color:#00FFFF;">Prajwal Vispute</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | Student | MERN Stack Developer
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Prajwal Vispute**
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;React+Developer;Open+Source+Enthusiast;Always+Learning+New+Things..." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things..." />
+<img src="https://komarev.com/ghpvc/?username=prajwalvispute7&style=for-the-badge&color=blue"/>
 
-</p>
+</div>
 
 ---
+
+<img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🎓 Student + Full Stack Developer
 
-🎓 Student & Developer
+💻 Passionate about building scalable web applications.
 
-💻 Passionate about Full Stack Development
+🚀 MERN Stack Developer
 
-🌱 Currently learning Advanced MERN Stack
+🌱 Currently learning Advanced Backend Development.
 
-⚡ Love Building Real World Projects
+⚡ Love Java, C++, React and Node.js.
 
-🚀 Open Source Enthusiast
-
-🔥 Goal: Become a Software Engineer at Top Product Companies
+🎯 Goal:
+Become a Software Engineer at a top product company.
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -52,102 +49,364 @@ Hi 👋, I'm <span style="color:#00FFFF;">Prajwal Vispute</span>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Languages
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 🚀 Frameworks
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# ⚡ Fun Fact
 
-<p align="center">
+```javascript
+const prajwal = {
+    role: "Full Stack Developer",
+    code: ["Java","C++","JavaScript"],
+    technologies: ["React","Node","Express","MongoDB"],
+    currentlyLearning: "Advanced MERN Stack",
+    lifeMotto: "Code • Learn • Build • Repeat 🚀"
+}
+```
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+---
 
-</p>
+<div align="center">
+
+## ⭐ "Dream Big. Code Bigger."
+
+</div>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prajwalvispute7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalvispute7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalvispute7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajwalvispute7&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalvispute7&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prajwalvispute7/prajwalvispute7/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ⚡ Development Philosophy
+
+```text
+while(alive){
+
+    Eat();
+
+    Sleep();
+
+    Code();
+
+    Learn();
+
+    Repeat();
+
+}
+```
+
+---
+
+# 💻 Current Focus
+
+```yaml
+Name: Prajwal Vispute
+
+Role: Full Stack Developer
+
+Education: Student
+
+Learning:
+  - Advanced MERN Stack
+  - System Design
+  - Backend Development
+
+Languages:
+  - Java
+  - C++
+  - JavaScript
+  - SQL
+
+Frameworks:
+  - React
+  - Node.js
+  - Express
+
+Database:
+  - MongoDB
+  - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+
+Goal:
+  Become a Software Engineer 🚀
+```
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+🟢 React Advanced
+
+███████████░░░░ 75%
+
+🟢 NodeJS
+
+████████████░░ 80%
+
+🟢 MongoDB
+
+██████████░░░░ 70%
+
+🟢 System Design
+
+███████░░░░░░░ 50%
+
+🟢 DSA
+
+███████████░░░ 75%
+
+</div>
+
+---
+
+# ☕ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Amazing Projects
+
+⬜ Master MERN Stack
+
+⬜ Learn Docker
+
+⬜ Learn AWS
+
+⬜ Contribute to Open Source
+
+⬜ 500+ GitHub Contributions
+
+⬜ 100+ Followers
+
+⬜ Land a Software Developer Role
+
+---
+
+# 🎵 Coding Mood
+
+<div align="center">
+
+### 🎧 Eat 🍕 • Code 💻 • Sleep 😴 • Repeat 🔁
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=prajwalvispute7&label=Visitors&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=150&section=footer"/>
+
+</div>
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌐 Portfolio Website | Personal Portfolio | HTML • CSS • JS |
+| 💬 Chat Application | Real-time Chat App | MERN |
+| 🛒 E-Commerce Website | Full Stack Shopping Platform | React • Node • MongoDB |
+| 📋 Task Manager | Productivity App | React • Express |
+| 🤖 AI Assistant | AI Powered Chatbot | JavaScript |
+
+</div>
+
+---
+
+# 🎖️ Achievements
+
+<div align="center">
+
+🥇 Full Stack Developer
+
+🚀 MERN Stack Developer
+
+💻 Java Developer
+
+⚛️ React Developer
+
+🌍 Open Source Enthusiast
+
+📚 Lifelong Learner
+
+</div>
+
+---
+
+# 💼 Developer Toolkit
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,html,css"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Skills
+# 📫 Contact
 
-✅ MERN Stack
+<div align="center">
 
-✅ ReactJS
+📧 **Email**
 
-✅ NodeJS
+prajwalvispute6@gmail.com
 
-✅ ExpressJS
+💼 **LinkedIn**
 
-✅ MongoDB
+https://www.linkedin.com/in/prajwal-vispute-52242a404/
 
-✅ Java
-
-✅ C++
-
-✅ SQL
-
-✅ JavaScript
+</div>
 
 ---
 
-# ✨ Quote
+# 🌟 Support
 
-> "Code. Learn. Build. Repeat."
+If you enjoy my work,
 
----
+⭐ Star my repositories
 
-<p align="center">
+🍴 Fork projects
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+🤝 Follow me on GitHub
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+# 💙 Thanks for visiting!
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=170&section=footer"/>
+
+</div>
