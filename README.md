@@ -1,6 +1,4 @@
-<p align="center">
-<img src="./assets/banner.svg" width="100%">
-</p>
+
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Prajwal Vispute**
@@ -160,106 +158,6 @@ Become a Software Engineer at a top product company.
 
 ---
 
-
-# 💻 Current Focus
-
-```yaml
-Name: Prajwal Vispute
-
-Role: Full Stack Developer
-
-Education: Student
-
-Learning:
-  - Advanced MERN Stack
-  - System Design
-  - Backend Development
-
-Languages:
-  - Java
-  - C++
-  - JavaScript
-  - SQL
-
-Frameworks:
-  - React
-  - Node.js
-  - Express
-
-Database:
-  - MongoDB
-  - MySQL
-
-Tools:
-  - Git
-  - GitHub
-  - VS Code
-
-Goal:
-  Become a Software Engineer 🚀
-```
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-🟢 React Advanced
-
-███████████░░░░ 75%
-
-🟢 NodeJS
-
-████████████░░ 80%
-
-🟢 MongoDB
-
-██████████░░░░ 70%
-
-🟢 System Design
-
-███████░░░░░░░ 50%
-
-🟢 DSA
-
-███████████░░░ 75%
-
-</div>
-
----
-
-
-# 🎯 2026 Goals
-
-✅ Build Amazing Projects
-
-⬜ Master MERN Stack
-
-⬜ Learn Docker
-
-⬜ Learn AWS
-
-⬜ Contribute to Open Source
-
-⬜ 500+ GitHub Contributions
-
-⬜ 100+ Followers
-
-⬜ Land a Software Developer Role
-
----
-
-# 🎵 Coding Mood
-
-<div align="center">
-
-### 🎧 Eat 🍕 • Code 💻 • Sleep 😴 • Repeat 🔁
-
-</div>
-
----
-
 # 👀 Profile Visitors
 
 <div align="center">
@@ -306,22 +204,8 @@ Goal:
 
 ⚛️ React Developer
 
-🌍 Open Source Enthusiast
-
-📚 Lifelong Learner
-
 </div>
 
-
-# 💼 Developer Toolkit
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,html,css"/>
-
-</p>
-
----
 
 # 📫 Contact
 
@@ -336,18 +220,6 @@ prajwalvispute6@gmail.com
 https://www.linkedin.com/in/prajwal-vispute-52242a404/
 
 </div>
-
----
-
-# 🌟 Support
-
-If you enjoy my work,
-
-⭐ Star my repositories
-
-🍴 Fork projects
-
-🤝 Follow me on GitHub
 
 ---
 
